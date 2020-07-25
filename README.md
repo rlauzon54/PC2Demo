@@ -1,8 +1,8 @@
 # PC2Demo
 Radio Shack Demo for the TRS-80 PC-2
 
-![Demo2K](demo2K.jpg)
-![Demo6K](demo6K.jpg)
+<img src="demo2k.jpg">
+<img src="demo6k.jpg">
 
 Note that the demos require the printer.
 
